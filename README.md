@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ankit9865
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me 8409539888
 
